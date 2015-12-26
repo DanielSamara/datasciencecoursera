@@ -1,2 +1,2 @@
 # datasciencecoursera
-Repor created for Dataa Science Toolbox course project
+Repo created for Data Science Toolbox course project
